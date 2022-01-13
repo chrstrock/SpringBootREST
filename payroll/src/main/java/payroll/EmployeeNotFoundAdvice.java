@@ -1,4 +1,4 @@
-package com.tutorial.spring;
+package payroll;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

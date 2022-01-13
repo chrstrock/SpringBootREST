@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.tutorial.spring;
+package payroll;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 /**

@@ -1,4 +1,4 @@
-package com.tutorial.spring;
+package payroll;
 
 class EmployeeNotFoundException extends RuntimeException {
 
