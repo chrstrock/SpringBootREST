@@ -1,5 +1,8 @@
 package payroll;
 
-public class Status {
+public enum Status {
 
+	IN_PROGRESS,
+	COMPLETED,
+	CANCELLED
 }
